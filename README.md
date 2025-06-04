@@ -14,7 +14,7 @@ This project demonstrates how to set up an Apache web server using Docker with a
 ## Prerequisites
 
 - [Docker](https://www.docker.com/get-started) installed on your machine.
-- Basic knowledge of command line and Docker.
+- Basic knowledge of the command line and Docker.
 
 ## Getting Started
 
