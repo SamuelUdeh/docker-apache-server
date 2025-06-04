@@ -20,18 +20,18 @@ This project demonstrates how to set up an Apache web server using Docker with a
 
 ### Clone the Repository
 
-```
-git clone https://github.com/yourusername/docker-apache-server.git
+
+```git clone https://github.com/yourusername/docker-apache-server.git
 cd docker-apache-server
 
 # Build the Docker Image
 
-```bash
+
 docker build -t my-apache-server.
 
 # Run the Docker Container
 
-```bash
+
 docker run -d -p 80:80 my-apache-server
 
 ### Access the Server
