@@ -20,7 +20,6 @@ This project demonstrates how to set up an Apache web server using Docker with a
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/docker-apache-server.git
 cd docker-apache-server
 
